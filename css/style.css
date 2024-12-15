@@ -1,0 +1,9 @@
+*{margin: 0px; padding: 0px; box-sizing: border-box;}
+
+.mainbody{ height: 1000px; width: 100%; background: lightblue;}
+.header{height: 150px; width: 100%; background: grey; text-align: center;}
+.menu{height: 50px; width: 100%; background: green; text-align: center;}
+.center{height: 700px; width: 100%; background: white; text-align: center;}
+.footer{height: 100px ;width: 100%; background: black ; color: wheat; text-align: center;}
+
+.wrapper{height: 1000px; width: 80%; margin: 0px 10%; background: blue;}

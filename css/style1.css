@@ -1,0 +1,12 @@
+*{margin: 0px; padding: 0px; box-sizing: border-box;}
+.container{height: 1000px; width: 100%; background: yellowgreen;}
+.header{height: 150px; width: 100%; background: wheat;}
+.logo{height: 150px; width: 25%; background: turquoise; float: left;}
+.title{height: 150px; width: 75%; background: blue; float: right;}
+
+.menu{height: 50px; width: 100%; background: lightblue;}
+.prow{height: 200px; width: 100%;}
+.product{height: 200px; width: 23.75%; float: left; border: solid; background: purple; margin-left: 1%;}
+.center{height: 500px; width: 100%; background: rgb(90, 39, 211);}
+
+.footer{height: 100px; width: 100%; background: black;}
